@@ -160,7 +160,7 @@
             </trans-unit>
              <trans-unit id="40">
                 <source>jda.search.shake</source>
-                <target>震度分布</target>
+                <target>震度</target>
             </trans-unit>
 		    <trans-unit id="41">
                 <source>jda.header.about</source>
@@ -232,7 +232,7 @@
             </trans-unit>
   			<trans-unit id="59">
                 <source>jda.header.alphadescription</source>
-                <target>2011年東日本大震災デジタルアーカイブ・alphaは現在まさに開発段階にあります。そのため、皆様がウェブサイト内の様々な機能をご利用になり、このプロジェクトで行われていることをご覧になる際、いくつかの技術的課題にお気づきになるかと存じます。しかし私たちは機能の向上とプログラムの不具合の修正に日々取り組んでおりますので、今後も皆様がこのインターフェースをお使いになり、ご意見・ご要望をお寄せ頂けるようでしたら幸いです。</target>
+                <target>2011年東日本大震災デジタルアーカイブ・alphaは現在まさに開発段階にあります。そのため、皆様がウェブサイト内の様々な機能をご利用になり、このプロジェクトで行われていることをご覧になる際、いくつかの技術的課題にお気づきになるかと存じます。しかし私たちは機能の向上とプログラムの不具合の修正に日々取り組んでおりますので、今後も皆様がこのインターフェースをお使いになり、ご意見・ご要望をお寄せ頂けるようお願い申し上げます。</target>
             </trans-unit>
              <trans-unit id="60">
                 <source>jda.header.aboutalpha</source>
