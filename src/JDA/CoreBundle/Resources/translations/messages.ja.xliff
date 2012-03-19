@@ -140,7 +140,7 @@
             </trans-unit>
              <trans-unit id="35">
                 <source>jda.search.legend</source>
-                <target>Legend</target>
+                <target>凡例</target>
             </trans-unit>
              <trans-unit id="36">
                 <source>jda.search.muncipaldistricts</source>
@@ -188,7 +188,7 @@
             </trans-unit>			
 			 <trans-unit id="47">
                 <source>jda.about.paragraph</source>
-                <target>2011年東日本大震災デジタルアーカイブ・試作モデルalphaは、国際的な協力関係の下で進められている取り組みの結果生まれたものです。そこに収蔵されているコンテンツは拡大を続けており、2011年3月とその後の未曾有の出来事によって様々に影響を受けた個人や団体からの投稿で構成されています。このアーカイブのインターフェースは、ハーバード大学エドウィン・O・ライシャワー日本研究所を中心としながら、ハーバード大学メタ・ラボ（metaLAB(at)Harvard）や地理学分析センター（Harvard's Center for Geographic Analysis）、そして非営利のクリエイティブ・テクノロジスト集団であるジーガ（Zeega.org）と密接に連携しながら開発されています。alpha版は進化し続ける参加型のアーカイブにその基礎を置いています。このインターフェースはジーガ（Zeega）というオープンソース・プラットフォームの上に構築されております。ジーガは危機的状況の際のアーカイブ作業において先導的な役割を果たしており、これを利用することで、どなたでも参加型のプロジェクトを作り、そこで写真・動画・文書・音声・データフィード・地図などの素材をウェブ上のAPIを通じて編集することが可能です。</target>
+                <target>2011年東日本大震災デジタルアーカイブ・試作モデルalphaは、国を越えた共同事業の結果生まれたものです。2011年3月とその後の未曾有の出来事によって様々に影響を受けた人々や団体からの投稿で構成されている収蔵コンテンツは、今後も増加し続けるでしょう。このアーカイブのインターフェースは、ハーバード大学エドウィン・O・ライシャワー日本研究所を中心としながら、ハーバード大学メタ・ラボ（metaLAB(at)Harvard）や地理学分析センター（Harvard's Center for Geographic Analysis）、そして非営利のクリエイティブ・テクノロジスト集団であるジーガ（Zeega.org）との密接な連携の下で開発されています。alpha版は「進化する参加型アーカイブ」のための土台部分と言うことができ、そのインターフェースはジーガ（Zeega）というオープンソース・プラットフォームの上に構築されています。ジーガは災害時など際のアーカイブ作業において先導的な役割を果たしており、これを利用することでどなたでも参加型のプロジェクトを作り、写真・動画・文書・音声・データフィード・地図などの素材をウェブ上のAPIを通じて編集することが可能です。</target>
             </trans-unit>
   			<trans-unit id="48">
                 <source>jda.search.results</source>
@@ -200,11 +200,11 @@
             </trans-unit>
             <trans-unit id="51">
                 <source>jda.login.username</source>
-                <target>Email</target>
+                <target>Eメール</target>
             </trans-unit>
             <trans-unit id="52">
                 <source>jda.login.password</source>
-                <target>Password</target>
+                <target>パスワード</target>
             </trans-unit>
             <trans-unit id="53">
                 <source>jda.login.partnerlogin</source>
@@ -228,7 +228,7 @@
             </trans-unit>
             <trans-unit id="58">
                 <source>jda.login.button</source>
-                <target>Submit</target>
+                <target>ログイン</target>
             </trans-unit>
   			<trans-unit id="59">
                 <source>jda.header.alphadescription</source>
@@ -240,7 +240,11 @@
             </trans-unit>
             <trans-unit id="61">
                 <source>jda.login.login</source>
-                <target>Login</target>
+                <target>ログイン</target>
+            </trans-unit>
+			<trans-unit id="62">
+                <source>jda.header.logout</source>
+                <target>ログアウト</target>
             </trans-unit>
 			</body>
     </file>
